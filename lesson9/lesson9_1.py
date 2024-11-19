@@ -1,4 +1,4 @@
-from gear.widget import get_name,generate_bmi
+from gear import get_name,generate_bmi
 
 if __name__ == '__main__':
     nums = int(input('請輸入人數:'))
